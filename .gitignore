@@ -1,0 +1,17 @@
+# Secrets — 絕不 commit
+.env
+.env.*
+!.env.example
+
+# Wrangler 本地 state
+.wrangler/
+.dev.vars
+
+# Node
+node_modules/
+
+# OS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/

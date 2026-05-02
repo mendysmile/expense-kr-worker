@@ -1,0 +1,10 @@
+name = "expense-kr"
+main = "index.js"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+# 你的 Notion data_source_id（韓國記帳 DB 的 data source）
+# 抓法：用 NOTION_TOKEN call GET /v1/databases/{db_id}，從 data_sources[0].id 取
+# 或：在 Notion DB 頁面的 URL 取得 db_id，再透過 API 查 data_source_id
+NOTION_DATA_SOURCE_ID = "REPLACE_WITH_YOUR_NOTION_DATA_SOURCE_ID"
