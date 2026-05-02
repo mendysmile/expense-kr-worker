@@ -2,7 +2,7 @@
 
 iPhone 控制中心一鍵記帳到 Notion 的 Cloudflare Worker — iOS Shortcut 送扁平 3 欄位 JSON，Worker 端取匯率、算台幣、寫進 Notion 韓國記帳 DB。
 
-📝 設計過程與踩坑紀錄：[iOS Shortcut + Cloudflare Worker × Notion：把記帳搬到 iPhone 控制中心](https://app.notion.com/p/v6-iOS-Shortcut-Cloudflare-Worker-Notion-iPhone-354685d200ff811b99faecf9db0a6995)
+📝 設計過程與踩坑紀錄：[iOS Shortcut + Cloudflare Worker × Notion：把記帳搬到 iPhone 控制中心](https://app.notion.com/p/v1-iOS-Shortcut-Cloudflare-Worker-Notion-iPhone-354685d200ff811b99faecf9db0a6995)
 
 ## 為什麼要 Worker 中介
 
