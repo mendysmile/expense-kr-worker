@@ -138,4 +138,7 @@ echo "你自己取的隨機字串" | npx wrangler@latest secret put SHORTCUT_SEC
 
 ## License
 
-MIT
+License：[PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/) · 個人使用、學習、分享自由；禁止商業用途
+作者：Mendy（[@mendysmile](https://github.com/mendysmile)）— [Adalyn](https://www.instagram.com/adalyn.career/)
+
+註：本 repo 在 2026-05-05 之前為 MIT License，已 fork 或正在使用 MIT 版本的人不受影響，仍可依 MIT 條款沿用對應 commit；新 commit 起改用 PolyForm Noncommercial 1.0.0。
